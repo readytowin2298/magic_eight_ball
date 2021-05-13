@@ -1,0 +1,13 @@
+.EightBall {
+    height: 500px;
+    width: 500px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.EightBall-text {
+    padding-top: 200px;
+    font-size: 2rem;
+    color: white;
+}
